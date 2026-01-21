@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pymongo
+flask-limiter
+bleach
